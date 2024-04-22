@@ -1,0 +1,16 @@
+{
+  "employdata": [
+    {
+      "id": "aa68",
+      "firstname": "fraol",
+      "lastname": "getu",
+      "email": "frraol03@gmail.com",
+      "dob": "2024-04-02T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "america",
+      "experiance": 5,
+      "salary": 4500
+    }
+  ]
+}
